@@ -120,7 +120,9 @@ These events form the primary telemetry source used throughout this threat hunti
 
 ---
 
-## Validation Screenshot
+## Validation Screenshot :
+<img width="758" height="233" alt="Screenshot 2026-06-05 202419" src="https://github.com/user-attachments/assets/9ed0a629-8635-4ba2-b82b-5acebb6c18f2" />
+
 
 The following screenshot demonstrates:
 
@@ -137,10 +139,10 @@ Stage 1
 USB Execution
 
 Stage 2
-Discovery, Staging and Network Activity
+Discovery, Staging and Network Activity (Coming Soon)
 
 Stage 3
-Beaconing and Command & Control
+Beaconing and Command & Control (Coming Soon)
 
 Stage 4
 Persistence (Coming Soon)
