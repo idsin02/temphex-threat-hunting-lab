@@ -139,10 +139,10 @@ Stage 1
 USB Execution
 
 Stage 2
-Discovery, Staging and Network Activity (Coming Soon)
+Discovery, Staging and Network Activity 
 
 Stage 3
-Beaconing and Command & Control (Coming Soon)
+Beaconing and Command & Control 
 
 Stage 4
-Persistence (Coming Soon)
+Persistence 
